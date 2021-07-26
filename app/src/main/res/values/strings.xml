@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MOOP_UAS</string>
+    <string name="tv_titleMain">Administrasi Rawat Inap</string>
+    <string name="tv_bangsal">Kategori:</string>
+    <string name="tv_penyakit">Penyakit:</string>
+    <string name="tv_form">Form pasien</string>
+    <string name="tv_namaPasien">Nama pasien:</string>
+    <string name="tv_kondisi">Kondisi pasien (cek yang berlaku):</string>
+    <string name="tv_listPasien">List pasien:</string>
+    <string name="tv_one_kondisi">Kondisi pasien:</string>
+    <string name="tv_dataKosong">Data pasien masih kosong</string>
+    <string name="tv_show">Lihat data pasien</string>
+
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_next">Next</string>
+
+    <string name="rb_anak">Bangsal Anak</string>
+    <string name="rb_dewasa">Bangsal Dewasa</string>
+    <string name="rb_db">Demam Berdarah</string>
+    <string name="rb_tipus">Tipus</string>
+
+    <string-array name="spinner_bangsal_item">
+        <item>Bangsal Anak</item>
+        <item>Bangsal Dewasa</item>
+    </string-array>
+    <string-array name="spinner_penyakit_item">
+        <item>Demam Berdarah</item>
+        <item>Tipus</item>
+    </string-array>
+
+</resources>
